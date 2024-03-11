@@ -1,6 +1,6 @@
 ---
 layout: default
-img: contrat.png
+img: infos_contract.png
 category: Services
 title: Gestion des Contrats
 description: |
