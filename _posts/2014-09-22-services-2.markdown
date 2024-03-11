@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: contrat.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Gestion des Contrats
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Consultez et modifiez les contrats pour chaque enfant. Informations générales, contacts d'urgence, restrictions alimentaires, et plus encore. Permet une communication claire entre la nounou et les parents.

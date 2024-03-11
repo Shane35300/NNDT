@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: emargement.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Gestion des Emargements
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Suivez facilement les heures de présence de chaque enfant. Enregistrez l'heure d'arrivée et de départ en quelques clics. Consultez l'historique des émargements pour une transparence totale entre les parents et la nounou.

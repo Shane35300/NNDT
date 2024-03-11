@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: planning.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Gestion des Plannings
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+  Organisez les événements importants, anniversaires, absences, etc. Ajoutez, supprimez, et modifiez des événements. Les nounous partagent le planning avec les parents pour une meilleure coordination.
