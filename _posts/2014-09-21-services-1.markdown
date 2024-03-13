@@ -1,6 +1,6 @@
 ---
 layout: default
-img: emargement.png
+img: smartphone_liste.png
 category: Services
 title: Gestion des Emargements
 description: |

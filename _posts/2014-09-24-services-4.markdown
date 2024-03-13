@@ -1,6 +1,6 @@
 ---
 layout: default
-img: recherche.png
+img: smartphone_recherche.png
 category: Services
 title: Recherche de Nounous
 description: |
